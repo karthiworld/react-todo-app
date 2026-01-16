@@ -1,7 +1,9 @@
-[![Vercel Deployment](https://vercel.com/button)](https://karthi-react-todo.vercel.app/)
-
-
 # React Todo App – Production-Ready Workflow
+
+[![Vercel](https://img.shields.io/badge/deployed%20on-vercel-black?logo=vercel)](https://karthi-react-todo.vercel.app/)
+
+🔗 **Live Demo:** https://karthi-react-todo.vercel.app/
+
 
 A modern **React + TypeScript Todo application** built to demonstrate **real-world frontend engineering practices**, not just basic CRUD.
 
