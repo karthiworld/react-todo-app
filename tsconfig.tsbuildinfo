@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/__tests__/app.test.tsx","./src/components/filters.tsx","./src/components/searchbar.tsx","./src/components/todoinput.tsx","./src/components/todoitem.tsx","./src/components/todolist.tsx","./src/hooks/usedebounce.ts","./src/reducer/todoreducer.ts","./src/test/setup.ts","./src/types/todo.ts"],"errors":true,"version":"5.9.3"}
